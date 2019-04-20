@@ -1,0 +1,89 @@
+		#title{
+			background-color: black;
+			color: white;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			padding-left: 35px;
+			padding-right: 35px;
+			font-size: 40px;
+			letter-spacing: 4px;
+			word-spacing: 10px;
+		}
+
+		#header{
+			background-color: black;
+		}
+
+		#logo{
+			padding-top: 7px;
+			padding-bottom: 7px;
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+
+		#side{
+			font-size: 25px;
+			margin-left: 85%;
+		}
+
+		nav{
+			position: relative;
+			top: -80px;
+			right: -300px;
+		}
+
+		nav ul{
+			list-style-type: none;
+			display: flex;
+		}
+
+		li a{
+			text-decoration: none;
+			color: white;
+			font-size: 30px;
+			padding-left: 35px;
+			padding-right: 35px;
+			padding-top: 20px;
+			padding-bottom: 20px;
+
+		}
+
+		li a:hover{
+			background-color: white;
+			color: red;
+		}
+
+		table{
+			width: 60%;
+			text-align: center;
+			position: relative;
+			left: 20%;
+		}
+
+		table,td,th{
+			border: 2px solid black;
+			padding-top: 15px;
+			padding-bottom: 15px;
+			padding-left: 25px;
+			padding-right: 25px;
+			font-size: 24px;
+			border-collapse: collapse;
+		}
+
+		button{
+			padding-top: 15px;
+			padding-bottom: 15px;
+			padding-left: 55px;
+			padding-right: 55px;
+			font-size: 18px;
+			position: relative;
+			left: 25%;
+			letter-spacing: 6px;
+			word-spacing: 15px;
+
+		}
+
+		input{
+			padding: 15px;
+			font-size: 20px;
+		}
